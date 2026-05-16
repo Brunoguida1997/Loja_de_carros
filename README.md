@@ -100,6 +100,8 @@ cargood/
 ├── cargood.sql       # Script completo (DDL + DML + objetos + queries)
 └── README.md         # Documentação do projeto
 
-👤 Autor : Bruno Guida Nascimento
+👤 Autor : Bruno Guida Nascimento - LinkedIn: https://www.linkedin.com/in/bruno-guida-605580185/
 
-Desenvolvido como projeto de portfólio para demonstração de habilidades em banco de dados relacional com SQL Server.
+Cada tabela, chave estrangeira e procedure aqui foi pensada para refletir como dados se relacionam em um negócio real, do estoque à análise de faturamento.
+Sou desenvolvedor júnior com experiência em SQL Server e banco de dados relacional. 
+Este projeto representa minha forma de trabalhar: estruturado, com atenção a regras de negócio e qualidade do código.
